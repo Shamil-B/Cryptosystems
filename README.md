@@ -10,7 +10,7 @@ This project is my python implementation of three Cryptosystems namely Affine, T
 
 	1. Choose 1 from the start menu 
 	2. Then enter 1 for encryption and 2 for decryption 
-      3. After choosing either enter the message to be encrypted and
+        3. After choosing either enter the message to be encrypted and
 	4. Finally enter a key to encrypt the message with where key is an integer.
 
 ### Concepts Used
@@ -64,7 +64,7 @@ This project is my python implementation of three Cryptosystems namely Affine, T
 
 	1. Choose 2 from the start menu 
 	2. Then enter 1 for encryption and 2 for decryption 
-      3. After choosing either 1 or 2 enter the message to be encrypted or decrypted and
+        3. After choosing either 1 or 2 enter the message to be encrypted or decrypted and
 	4. Finally enter a key to encrypt the message with where key is 
 	   a single word or a sequence of positive integers separated by whitespace.
 
@@ -98,7 +98,7 @@ This project is my python implementation of three Cryptosystems namely Affine, T
 
 	1. Choose 3 from the start menu 
 	2. Then enter 1 for encryption and 2 for decryption 
-      3. After choosing either 1 or 2 enter the message to be encrypted or decrypted and
+        3. After choosing either 1 or 2 enter the message to be encrypted or decrypted and
 	4. Finally enter a public key or private key to encrypt or decrypt the message respectively. The 'n' and 'e' values 
 	are entered separated by white space and the 'n' and 'd' values the same way for decryption.
 
