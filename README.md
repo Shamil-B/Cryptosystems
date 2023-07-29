@@ -1,6 +1,6 @@
 # Cryptosystems
 
-This project is a python implementation of three Cryptosystems namely Affine, Transposition and RSA Encryptions. 
+This project is my python implementation of three Cryptosystems namely Affine, Transposition and RSA Encryptions. 
 
 ## Affine Encryption
 
